@@ -1,4 +1,4 @@
-# Hi, I'm Jimena! 👋
+# Hi, I'm Jimena! 
 
 **Web Developer | Cybersecurity Enthusiast | QA & Testing**
 
@@ -104,6 +104,13 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 ## 🚀 Featured Projects
 
+### 🌎 Full-Stack Travel Management System
+
+A full-stack web application for managing travel tours, users, and reservations, featuring a RESTful API, MongoDB database, authentication, and a responsive web interface.
+
+**Focus:** Full-Stack Development · REST API · API Testing · Authentication · Database Management
+
+**Tech Stack:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · Mongoose · JWT · Postman
 
 ---
 
