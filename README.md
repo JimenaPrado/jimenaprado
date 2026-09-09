@@ -1,6 +1,6 @@
 # Hi, I'm Jimena! 👋
 
-💻 **Web Developer | Cybersecurity Enthusiast | QA & Testing**
+**Web Developer | Cybersecurity Enthusiast | QA & Testing**
 
 I'm a Web Development student with a growing focus on **Cybersecurity, Security Operations, and Software Quality**.
 
@@ -10,7 +10,7 @@ My goal is to combine **development, cybersecurity, and QA** to build more secur
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 * 🎓 Studying Development and Web Design
 * 🛡️ Currently building my knowledge in Cybersecurity and Blue Team practices
@@ -22,7 +22,7 @@ My goal is to combine **development, cybersecurity, and QA** to build more secur
 
 ---
 
-## 🛡️ Cybersecurity
+## Cybersecurity
 
 I'm currently developing practical skills in:
 
@@ -37,7 +37,7 @@ I'm currently developing practical skills in:
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 ### Technologies & Tools
 
@@ -56,7 +56,7 @@ I'm particularly interested in building applications while considering **securit
 
 ---
 
-## 🐍 Python
+## Python
 
 Currently using Python to improve my:
 
@@ -70,7 +70,7 @@ Some of my upcoming projects will focus on using Python for **security analysis 
 
 ---
 
-## 🧪 QA & Testing
+## QA & Testing
 
 I'm developing skills in:
 
@@ -87,7 +87,7 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 🛡️ Cybersecurity & Blue Team
@@ -104,19 +104,6 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 ## 🚀 Featured Projects
 
-### 🛡️ Security Alert Analysis Lab
-
-> Hands-on investigation of simulated security alerts, logs, and suspicious activity.
-
-**Focus:** Cybersecurity · Log Analysis · Incident Investigation
-
----
-
-### 🐍 Python Security Toolkit
-
-> A collection of Python scripts created to practice automation and security analysis.
-
-**Focus:** Python · Automation · Cybersecurity
 
 ---
 
@@ -140,9 +127,9 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 I'm always interested in connecting with people in **Web Development, Cybersecurity, QA, and Technology**.
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
-* 💻 GitHub: [Your GitHub]
+* 💼 LinkedIn: https://www.linkedin.com/in/jimena-p/
+* 📧 Email: jimena.prado.arce@gmail.com
+* 💻 GitHub: https://github.com/JimenaPrado
 
 ---
 
