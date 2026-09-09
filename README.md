@@ -106,11 +106,14 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 ### 🌎 Full-Stack Travel Management System
 
-A full-stack web application for managing travel tours, users, and reservations, featuring a RESTful API, MongoDB database, authentication, and a responsive web interface.
+> A full-stack web application for managing travel tours, users, and reservations, featuring a RESTful API, MongoDB database, authentication, and a responsive web interface.
 
 **Focus:** Full-Stack Development · REST API · API Testing · Authentication · Database Management
 
 **Tech Stack:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · Mongoose · JWT · Postman
+
+🔗 **[View Repository](https://github.com/JimenaPrado/full-stack-travel-app)**
+
 
 ---
 
