@@ -125,11 +125,16 @@ I'm especially interested in combining **QA and cybersecurity** to identify vuln
 
 ---
 
-### 🌐 Cybersecurity Dashboard
+### 🛡️ SOC Alert Investigation Lab
 
-> A web-based dashboard for visualizing security events and basic security metrics.
+> A hands-on SOC investigation lab focused on analyzing authentication logs, correlating suspicious events, identifying indicators of compromise, and documenting a potential account compromise.
 
-**Focus:** HTML · CSS · JavaScript · Data Visualization
+**Focus:** Alert Triage · Log Analysis · Incident Investigation · IOC Identification · Incident Response · Networking
+
+**Tools:** Linux · Git · GitHub · SSH · SMB
+
+[View Project](https://github.com/JimenaPrado/soc-portfolio/tree/main/alert-investigation)
+
 
 ---
 
